@@ -31,7 +31,7 @@ can maximise their profit.
 ### XGBoost
 <img src="https://user-images.githubusercontent.com/22881021/164909320-9162259f-3ac3-481a-bc61-905ddd9dd685.png" alt="drawing" width="500"/>
 
-## Conclusion
+## Conclusion 👨‍💻
 
 ### Data-driven insights and recommendations:
 
