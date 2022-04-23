@@ -1,8 +1,8 @@
 # Welcome to Team 7 repository
 
 # Content page
-1. [About](#About)
-2. [Contributors](#Contributors)
+1. [About 🙋🏻‍♂️](#About)
+2. [Contributors 🧙🏻‍♀️🧙🏻](#Contributors)
 3. [Problem Definition](#Problem_Definition)
 4. [Models Used 🙆🏻‍♂️](#Models_used)
 5. [Conclusion 👨🏻‍💻](#Conclusion)
