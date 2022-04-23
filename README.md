@@ -6,8 +6,8 @@
 COVID-19 has cause significant impact to our society for the past 2-3 years, this is especially true for the film
 industry. Cinemas were closed to prevent the spread of the virus and today requires patrons to leave gaps between each
 other thus reducing the potential earnings for a particular screening. <br><br>
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) focuses how movie producers can
-maximise their profit.
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) focuses how movie producers
+can maximise their profit.
 
 ## Contributors
 
@@ -48,17 +48,23 @@ maximise their profit.
 
 * Random forest and Multivariate linear regression did give most similar accuracy, however linear regression accuracy
   was most similar in train and test.
+* The moderately accurate score our models gave may be attributed to movies not releasing their budget and revenue
+  information, thus our original 140k rows of data has been reduced to 2747 rows. The smaller dataset may have influenced the accuracy of our
+  models.
 
 ## Project Takeaway
 
 ### What did we learn?
 
 #### New Models
+
 * Random Forest Regression
 * XGBoost
-<br>
-<br>
+  <br>
+  <br>
+
 #### Collaboration
+
 * Collaborating using Google Colab
 
 ## References
