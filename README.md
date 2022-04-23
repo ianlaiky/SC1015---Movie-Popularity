@@ -1,6 +1,6 @@
 # Welcome to Team 7 repository
 
-## About
+## About 🙋🏻‍♂️
 
 ![image](https://user-images.githubusercontent.com/22881021/164909096-1e296551-1ca9-4f8c-bf03-d00eed0d9031.png)
 COVID-19 has cause significant impact to our society for the past 2-3 years, this is especially true for the film
@@ -10,7 +10,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 can maximise their profit.
 ![image](https://user-images.githubusercontent.com/22881021/164909203-36ce62ca-04c7-4cfe-a29e-1f7ae9dd2c80.png)
 
-## Contributors 👦👧
+## Contributors 🧙🏻‍♀️🧙🏻
 
 * @ianlaiky - Ian Lai Kheng Yan - Data Extraction,Machine Learning
 * @drainboy - Koh Jia Sheng Eldrian - Exploratory data analysis
@@ -20,7 +20,7 @@ can maximise their profit.
 
 * How do different variables affect the revenue of a movie?
 
-## Models Used
+## Models Used 🙆🏻‍♂️
 
 ### Random Forest
 <img src="https://user-images.githubusercontent.com/22881021/164909254-66618370-9fa0-4089-9a84-fc87bcc2a436.png" alt="drawing" width="500"/>
@@ -31,7 +31,7 @@ can maximise their profit.
 ### XGBoost
 <img src="https://user-images.githubusercontent.com/22881021/164909320-9162259f-3ac3-481a-bc61-905ddd9dd685.png" alt="drawing" width="500"/>
 
-## Conclusion 👨‍💻
+## Conclusion 👨🏻‍💻
 
 ### Data-driven insights and recommendations:
 
