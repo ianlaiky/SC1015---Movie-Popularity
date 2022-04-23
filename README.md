@@ -75,6 +75,8 @@ Exploring other types of models such as
 a csv file. 
 
 * Handling occasional crashes due to unstable internet, and resuming the scraping process through error checking. 
+* Handling random erroneous string that causes data in csv to be 'corrupted'
+
 ## References
 
 * Derrick M. (2021 October 26). Random Forest Regression: When Does It Fail and Why? Neptune
