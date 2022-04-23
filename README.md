@@ -68,7 +68,7 @@ Exploring other types of models such as
 
 * Collaborating using Google Colab
 
-### Data Extraction
+#### Data Extraction
 
 * Using API to extract data from TMDB website. Writing python script that extracts data from TMDB website and saves it to
 a csv file. 
