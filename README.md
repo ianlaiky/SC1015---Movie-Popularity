@@ -23,15 +23,15 @@ EDIT
 
 
 ## Project Takeaway
-###What did we learn?
-Random Forest Regression
-XGBoost
+### What did we learn?
+* Random Forest Regression
+* XGBoost
 
 
-Project Outcomes and Conclusions:
-Predict revenue of a movie based on factors during the making of the movie.
+### Project Outcomes and Conclusions:
+* Predict revenue of a movie based on factors during the making of the movie.
 
-Random forest and Multivariate linear regression did give most similar accuracy, however linear regression accuracy was most similar in train and test. 
+* Random forest and Multivariate linear regression did give most similar accuracy, however linear regression accuracy was most similar in train and test. 
 
 
 
