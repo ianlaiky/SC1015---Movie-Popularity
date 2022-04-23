@@ -1,16 +1,16 @@
 # Welcome to Team 7 repository
 
 # Content page
-1. [About](##About)
-2. [Contributors](##Contributors)
-3. [Problem Definition](##Problem Definition)
-4. [Models Used 🙆🏻‍♂️](##Models Used)
-5. [Conclusion 👨🏻‍💻](##Conclusion)
-6. [Project Takeaway 👨🏻‍🎓](##Project Takeaway)
+1. [About](#About)
+2. [Contributors](#Contributors)
+3. [Problem Definition](#Problem_Definition)
+4. [Models Used 🙆🏻‍♂️](#Models_used)
+5. [Conclusion 👨🏻‍💻](#Conclusion)
+6. [Project Takeaway 👨🏻‍🎓](#Takeaway)
 7. [References](#References)
 
 
-
+<a name="About"></a>
 ## About 🙋🏻‍♂️
 
 ![image](https://user-images.githubusercontent.com/22881021/164909096-1e296551-1ca9-4f8c-bf03-d00eed0d9031.png)
@@ -21,16 +21,19 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 can maximise their profit.
 ![image](https://user-images.githubusercontent.com/22881021/164909203-36ce62ca-04c7-4cfe-a29e-1f7ae9dd2c80.png)
 
+<a name="Contributors"></a>
 ## Contributors 🧙🏻‍♀️🧙🏻
 
 * @ianlaiky - Ian Lai Kheng Yan - Data Extraction,Machine Learning
 * @drainboy - Koh Jia Sheng Eldrian - Exploratory data analysis
 * @kavi-99 - Kavita Sriram - Exploratory data analysis
-
+* 
+<a name="Problem_Definition"></a>
 ## Problem Definition
 
 * How do different variables affect the revenue of a movie?
 
+<a name="Models_used"></a>
 ## Models Used 🙆🏻‍♂️
 
 ### Random Forest
@@ -42,6 +45,7 @@ can maximise their profit.
 ### XGBoost
 <img src="https://user-images.githubusercontent.com/22881021/164909320-9162259f-3ac3-481a-bc61-905ddd9dd685.png" alt="drawing" width="500"/>
 
+<a name="Conclusion"></a>
 ## Conclusion 👨🏻‍💻
 
 ### Data-driven insights and recommendations:
@@ -69,6 +73,7 @@ can maximise their profit.
   information, thus our original 140k rows of data has been reduced to 2747 rows. The smaller dataset may have
   influenced the accuracy of our models.
 
+<a name="Takeaway"></a>
 ## Project Takeaway 👨🏻‍🎓
 
 ### What did we learn?
