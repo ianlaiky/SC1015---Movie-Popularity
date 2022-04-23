@@ -10,7 +10,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 can maximise their profit.
 ![image](https://user-images.githubusercontent.com/22881021/164909203-36ce62ca-04c7-4cfe-a29e-1f7ae9dd2c80.png)
 
-## Contributors
+## Contributors 👦👧
 
 * @ianlaiky - Ian Lai Kheng Yan - Data Extraction,Machine Learning
 * @drainboy - Koh Jia Sheng Eldrian - Exploratory data analysis
