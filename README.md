@@ -7,7 +7,7 @@
 4. [Models Used 🙆🏻‍♂️](##Models Used)
 5. [Conclusion 👨🏻‍💻](##Conclusion)
 6. [Project Takeaway 👨🏻‍🎓](##Project Takeaway)
-7. [References](##References)
+7. [References](#References)
 
 
 
@@ -93,6 +93,7 @@ a csv file.
 * Handling random erroneous string that causes data in csv to be 'corrupted'
 * Using tmdbv3api to extract data from TMDB website. (https://github.com/AnthonyBloomer/tmdbv3api)
 
+<a name="References"></a>
 ## References
 
 * Derrick M. (2021 October 26). Random Forest Regression: When Does It Fail and Why? Neptune
