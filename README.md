@@ -1,7 +1,7 @@
 # Welcome to Team 7 repository
 
 ## About
-![image](https://user-images.githubusercontent.com/22881021/164895983-d5c00d93-9033-48a2-a41c-414fb153542b.png)
+![image](https://user-images.githubusercontent.com/22881021/164896029-89e32bf3-a4b7-43ca-84c4-455aa8863aa4.png)
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses 
 
