@@ -49,14 +49,16 @@ can maximise their profit.
 * Random forest and Multivariate linear regression did give most similar accuracy, however linear regression accuracy
   was most similar in train and test.
 * The moderately accurate score our models gave may be attributed to movies not releasing their budget and revenue
-  information, thus our original 140k rows of data has been reduced to 2747 rows. The smaller dataset may have influenced the accuracy of our
-  models.
+  information, thus our original 140k rows of data has been reduced to 2747 rows. The smaller dataset may have
+  influenced the accuracy of our models.
 
 ## Project Takeaway
 
 ### What did we learn?
 
 #### New Models
+
+Exploring other types of models such as
 
 * Random Forest Regression
 * XGBoost
@@ -67,11 +69,20 @@ can maximise their profit.
 
 * Collaborating using Google Colab
 
+### Data Extraction
+
+Using API to extract data from TMDB website. Writing python script that extracts data from TMDB website and saves it to
+a csv file. 
+
 ## References
 
-* Derrick M. (2021 October 26). Random Forest Regression: When Does It Fail and Why? Neptune Blog. https://neptune.ai/blog/random-forest-regression-when-does-it-fail-and-why 
-* Berna B. (n.d). EDA & Random Forest & XGBoost - TMDB Box Office. Kaggle. https://www.kaggle.com/code/bernabas/eda-random-forest-xgboost-tmdb-box-office 
-* Sruthi E R. (2021 June 17). Understanding Random Forest. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=Random%20forest%20is%20a%20Supervised,average%20in%20case%20of%20regression.
+* Derrick M. (2021 October 26). Random Forest Regression: When Does It Fail and Why? Neptune
+  Blog. https://neptune.ai/blog/random-forest-regression-when-does-it-fail-and-why
+* Berna B. (n.d). EDA & Random Forest & XGBoost - TMDB Box Office.
+  Kaggle. https://www.kaggle.com/code/bernabas/eda-random-forest-xgboost-tmdb-box-office
+* Sruthi E R. (2021 June 17). Understanding Random Forest. Analytics
+  Vidhya. https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=Random%20forest%20is%20a%20Supervised,average%20in%20case%20of%20regression
+  .
 * XGBoost (n.d). XGBoost Documentation. https://xgboost.readthedocs.io/en/stable/
 * The Movie Database (n.d). The Movie Database website. https://www.themoviedb.org/ 
 
