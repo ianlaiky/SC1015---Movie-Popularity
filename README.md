@@ -23,6 +23,8 @@ can maximise their profit.
 ## Models Used
 
 * Random Forest
+* ![image](https://user-images.githubusercontent.com/22881021/164909254-66618370-9fa0-4089-9a84-fc87bcc2a436.png)
+
 * Multivariate Linear Regression
 * XGBoost
 
