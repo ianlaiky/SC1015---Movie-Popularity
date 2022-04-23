@@ -1,7 +1,7 @@
 # Welcome to Team 7 repository
 
 ## About
-![image](https://user-images.githubusercontent.com/22881021/164896029-89e32bf3-a4b7-43ca-84c4-455aa8863aa4.png)
+![image](https://user-images.githubusercontent.com/22881021/164895983-d5c00d93-9033-48a2-a41c-414fb153542b.png)
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses 
 
@@ -54,8 +54,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 
 ## References
-https://neptune.ai/blog/random-forest-regression-when-does-it-fail-and-why
-https://www.kaggle.com/code/bernabas/eda-random-forest-xgboost-tmdb-box-office 
-https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=Random%20forest%20is%20a%20Supervised,average%20in%20case%20of%20regression.
-https://xgboost.readthedocs.io/en/stable/
+https://neptune.ai/blog/random-forest-regression-when-does-it-fail-and-why<br>
+https://www.kaggle.com/code/bernabas/eda-random-forest-xgboost-tmdb-box-office<br> 
+https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=Random%20forest%20is%20a%20Supervised,average%20in%20case%20of%20regression.<br>
+https://xgboost.readthedocs.io/en/stable/<br>
 https://www.themoviedb.org/
