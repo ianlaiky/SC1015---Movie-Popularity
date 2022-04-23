@@ -22,11 +22,14 @@ can maximise their profit.
 
 ## Models Used
 
-* Random Forest
-* ![image](https://user-images.githubusercontent.com/22881021/164909254-66618370-9fa0-4089-9a84-fc87bcc2a436.png)
+### Random Forest
+<img src="https://user-images.githubusercontent.com/22881021/164909254-66618370-9fa0-4089-9a84-fc87bcc2a436.png" alt="drawing" width="500"/>
 
-* Multivariate Linear Regression
-* XGBoost
+### Multivariate Linear Regression
+<img src="https://user-images.githubusercontent.com/22881021/164909313-f4ebe39f-cd3c-4999-8643-bbefb7040f40.png" alt="drawing" width="500"/>
+
+### XGBoost
+<img src="https://user-images.githubusercontent.com/22881021/164909320-9162259f-3ac3-481a-bc61-905ddd9dd685.png" alt="drawing" width="500"/>
 
 ## Conclusion
 
