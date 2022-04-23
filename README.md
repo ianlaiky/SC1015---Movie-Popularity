@@ -58,7 +58,7 @@ can maximise their profit.
   information, thus our original 140k rows of data has been reduced to 2747 rows. The smaller dataset may have
   influenced the accuracy of our models.
 
-## Project Takeaway 👨‍🎓
+## Project Takeaway 👨🏻‍🎓
 
 ### What did we learn?
 
