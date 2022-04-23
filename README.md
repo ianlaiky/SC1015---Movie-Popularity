@@ -53,8 +53,13 @@ maximise their profit.
 
 ### What did we learn?
 
+#### New Models
 * Random Forest Regression
 * XGBoost
+<br>
+<br>
+#### Collaboration
+* Collaborating using Google Colab
 
 ## References
 
