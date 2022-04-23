@@ -8,6 +8,7 @@ industry. Cinemas were closed to prevent the spread of the virus and today requi
 other thus reducing the potential earnings for a particular screening. <br><br>
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) focuses how movie producers
 can maximise their profit.
+![image](https://user-images.githubusercontent.com/22881021/164909203-36ce62ca-04c7-4cfe-a29e-1f7ae9dd2c80.png)
 
 ## Contributors
 
