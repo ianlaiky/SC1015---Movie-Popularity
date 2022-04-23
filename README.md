@@ -62,8 +62,7 @@ Exploring other types of models such as
 
 * Random Forest Regression
 * XGBoost
-  <br>
-  <br>
+
 
 #### Collaboration
 
@@ -73,9 +72,9 @@ Exploring other types of models such as
 
 * Using API to extract data from TMDB website. Writing python script that extracts data from TMDB website and saves it to
 a csv file. 
-
 * Handling occasional crashes due to unstable internet, and resuming the scraping process through error checking. 
 * Handling random erroneous string that causes data in csv to be 'corrupted'
+* Using tmdbv3api to extract data from TMDB website. (https://github.com/AnthonyBloomer/tmdbv3api)
 
 ## References
 
