@@ -69,8 +69,9 @@ can maximise their profit.
 
 ## References
 
-https://neptune.ai/blog/random-forest-regression-when-does-it-fail-and-why<br>
-https://www.kaggle.com/code/bernabas/eda-random-forest-xgboost-tmdb-box-office<br>
-https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=Random%20forest%20is%20a%20Supervised,average%20in%20case%20of%20regression.<br>
-https://xgboost.readthedocs.io/en/stable/<br>
-https://www.themoviedb.org/
+* Derrick M. (2021 October 26). Random Forest Regression: When Does It Fail and Why? Neptune Blog. https://neptune.ai/blog/random-forest-regression-when-does-it-fail-and-why 
+* Berna B. (n.d). EDA & Random Forest & XGBoost - TMDB Box Office. Kaggle. https://www.kaggle.com/code/bernabas/eda-random-forest-xgboost-tmdb-box-office 
+* Sruthi E R. (2021 June 17). Understanding Random Forest. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=Random%20forest%20is%20a%20Supervised,average%20in%20case%20of%20regression.
+* XGBoost (n.d). XGBoost Documentation. https://xgboost.readthedocs.io/en/stable/
+* The Movie Database (n.d). The Movie Database website. https://www.themoviedb.org/ 
+
