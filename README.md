@@ -27,7 +27,7 @@ can maximise their profit.
 * @ianlaiky - Ian Lai Kheng Yan - Data Extraction,Machine Learning
 * @drainboy - Koh Jia Sheng Eldrian - Exploratory data analysis
 * @kavi-99 - Kavita Sriram - Exploratory data analysis
-* 
+
 <a name="Problem_Definition"></a>
 ## Problem Definition
 
